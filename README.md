@@ -3,6 +3,12 @@
 **Support:** [https://bhbotlist.xyz/dc](https://bhbotlist.xyz/dc) <br>
 **NPM:** [npmjs.com/package/bhbl.db](https://www.npmjs.com/package/bhbl.db)<br>
 
+<a href="https://www.npmjs.com/package/bhbl.db/"><img src="https://img.shields.io/npm/v/bhbl.db?style=plastic?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/bhbl.db"><img src="https://img.shields.io/npm/dt/bhbl.db.svg?maxAge=3600" alt="NPM downloads" /></a>
+
+
+<a href="https://nodei.co/npm/bhbl.db"><img src="https://nodei.co/npm/bhbl.db.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+
 ```js
 const Database = require("bhbl.db");
 const db = new Database("./db.json");
