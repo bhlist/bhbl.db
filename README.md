@@ -1,6 +1,6 @@
 # bhbl.db
-<a href="https://bhbotlist.xyz/dc" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png?size=512" alt="Join our discord" width="256"></a><br>
-**Support:** [https://bhbotlist.tech/dc](https://bhbotlist.tech/dc) <br>
+<a href="https://bhlist.co.in/dc" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png?size=512" alt="Join our discord" width="256"></a><br>
+**Support:** [https://bhlist.co.in/dc](https://bhlist.co.in/dc) <br>
 **NPM:** [npmjs.com/package/bhbl.db](https://www.npmjs.com/package/bhbl.db)<br>
 
 <a href="https://www.npmjs.com/package/bhbl.db/"><img src="https://img.shields.io/npm/v/bhbl.db?style=plastic?maxAge=3600" alt="NPM version" /></a>
@@ -62,5 +62,5 @@ db.clear()
 // {}
 ```
 ## Installation
-*If you have trouble with the installation, please feel free to visit our [discord](https://bhbotlist.tech/dc) address.*
+*If you have trouble with the installation, please feel free to visit our [discord](https://bhlist.co.in/dc) address.*
 - `npm i bhbl.db`
