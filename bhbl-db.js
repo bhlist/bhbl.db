@@ -1,5 +1,5 @@
 const fs = require("fs");
-const err = 'Error: If you need help? https://bhbotlist.xyz/dc'
+const err = 'Error: If you need help? https://bhlist.co.in/dc'
 module.exports = class BHBL {
 constructor(filePath){
 this.json = filePath || "./bhbldb.json";
